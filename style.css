@@ -10,7 +10,8 @@ h1 {
     color: orange;
 }
 
-section {
+,
+flexinble-container {
     display: flex;
     margin-bottom: 100px;
 }
